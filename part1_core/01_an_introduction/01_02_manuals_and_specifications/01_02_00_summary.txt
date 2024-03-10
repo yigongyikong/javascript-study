@@ -1,0 +1,24 @@
+- 명세서(specification) : 튜토리얼 이외 상세 정보를 받은 문서
+    ECMA-262 명세서(specification)는 자바스크립트와 관련된 가장 심도 있고 상세한 정보를 담고 있는 공식 문서입니다. 
+        이 명세서에서 자바스크립트라는 언어를 정의합니다.
+    ECMA-262명세서는 새로운 버전이 매년 나옵니다. 
+        공식 버전이 나오기 이전의 최신 초안은 https://tc39.es/ecma262/에서 확인할 수 있습니다.
+    갓 명세서에 등록된 기능이나 '등록되기 바로 직전’에 있는 기능(스테이지(stage)3 상태의 기능), 
+        제안 목록은 https://github.com/tc39/proposals에서 확인할 수 있습니다.
+==> javascript에 관한 가장 상세한 정보를 가지고 있는 공식 문서는 ECMA-262 명세서입니다.
+==> https://tc39.es/ecma262/ 에서 확인가능합니다.
+==> '등록되기 바로 직전’에 있는 기능(스테이지(stage)3 상태의 기능)은 https://github.com/tc39/proposals 에서 확인할 수 있습니다.
+
+- 매뉴얼
+    Mozilla 재단이 운영하는 MDN JavaScript Reference엔 다양한 예제와 정보가 있습니다.
+        특정 함수나 메서드에 대한 깊이 있는 정보를 얻고 싶다면 이 사이트가 제격입니다.
+==> MDN [원하는 용어]를 검색해 다양한 예제와 정보를 확인할 수 있습니다.
+
+- 호환성 표
+    http://caniuse.com 에선 브라우저가 특정 기능을 지원하는지 (표 형태로) 확인할 수 있습니다. 
+        암호화 관련 기능인 cryptography를 특정 브라우저에서 사용할 수 있는지 아닌지를 보려면 
+        http://caniuse.com/#feat=cryptography를 확인하면 됩니다.
+    https://kangax.github.io/compat-table 에선 자바스크립트 기능 목록이 있고, 
+        해당 기능을 특정 엔진이 지원하는지 여부를 거대한 표를 통해 보여줍니다.
+==> javascript의 특정 기능이 브라우저에서 사용하는지 확인하는 방법은 호환성 표를 통해 확인할 수 있습니다.
+==> http://caniuse.com 와 https://kangax.github.io/compat-table 에서 확인이 가능합니다.
